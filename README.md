@@ -1,6 +1,6 @@
 # VoiceDesk
 
-A small, working AI voice assistant for a business phone line. A caller
+Working AI voice assistant for a business phone line. A caller
 talks to a VAPI.ai assistant; VAPI converts speech to text and calls a
 FastAPI backend, which classifies the caller's intent with an LLM,
 performs a small action (book an appointment, log a callback request,
